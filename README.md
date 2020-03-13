@@ -11,10 +11,9 @@ Video https://www.youtube.com/watch?v=Dyg_cJ5zm4c
 ## week 5
 ![Botton](https://github.com/Tianbaidun0-0/Tianbai_CCA_Mechatronics_2020/blob/master/buttonlightGIF.GIF)
 ## week 6
-
-
+![6](https://github.com/Tianbaidun0-0/Tianbai_CCA_Mechatronics_2020/blob/master/6.png)
 ## week 7
-
+![666666](https://github.com/Tianbaidun0-0/Tianbai_CCA_Mechatronics_2020/blob/master/666666.png)
 ## week 8
 ![Car](https://github.com/Tianbaidun0-0/Tianbai_CCA_Mechatronics_2020/blob/master/Car.GIF)
 ![77](https://github.com/Tianbaidun0-0/Tianbai_CCA_Mechatronics_2020/blob/master/77.JPG)

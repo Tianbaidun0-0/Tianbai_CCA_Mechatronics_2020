@@ -17,6 +17,6 @@ Video https://www.youtube.com/watch?v=Dyg_cJ5zm4c
 The processe of the Obstacle Avoiding Car Project
 ## midterm 
 Obstacle Avoiding Car Project- team work (Sis, Zoe, Tianbai)
-            ![Car](https://github.com/Tianbaidun0-0/Tianbai_CCA_Mechatronics_2020/blob/master/Car.GIF)
+![Car](https://github.com/Tianbaidun0-0/Tianbai_CCA_Mechatronics_2020/blob/master/Car.GIF)
 ![77](https://github.com/Tianbaidun0-0/Tianbai_CCA_Mechatronics_2020/blob/master/77.JPG)
 In this midtern, our team uses the distance sensor to make the car moving, and the LED can turn on when the distance sensor detect the roadblock.
